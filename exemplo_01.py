@@ -11,4 +11,4 @@ segundo_numero = int(input("Digite o segundo numero: "))
 
 soma = primeiro_numero + segundo_numero
 
-print(f"A soma dos dois numeros é {soma}")
+print(f"A soma dos dois numeros é {soma} e é do tipo {type(soma)}")
